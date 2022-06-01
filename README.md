@@ -15,3 +15,5 @@
 Este es repositorio se tiene almacenado las tareas, la data y los exámenes de la clase de Bioinformática.
 Uso de Github desktop para control de la versión
 
+##TAREA 4 ARCHIVOS nietsize.sh y nietsize_all.sh
+### se urason comandos for, while, if, until
