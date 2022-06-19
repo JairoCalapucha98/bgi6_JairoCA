@@ -17,3 +17,5 @@ Uso de Github desktop para control de la versión
 
 ##TAREA 4 ARCHIVOS nietsize.sh y nietsize_all.sh
 ### se urason comandos for, while, if, until
+
+##Tarea en python (Sábado 18 de Junio de 2022)
